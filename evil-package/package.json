@@ -1,0 +1,5 @@
+{
+  "name": "a-package-you-did-not-read", "version": "1.0.0", "private": true,
+  "description": "A package whose install step does something. This is the whole mechanism.",
+  "scripts": { "postinstall": "node postinstall.js" }
+}

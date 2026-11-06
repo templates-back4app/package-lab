@@ -1,0 +1,7 @@
+{
+  "name": "four-features-with-a-backend", "private": true, "version": "1.0.0",
+  "description": "The same four features, where the backend already has them.",
+  "dependencies": {
+    "parse": "6.1.0"
+  }
+}
